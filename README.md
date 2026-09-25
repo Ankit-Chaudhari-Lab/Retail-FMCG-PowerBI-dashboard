@@ -46,11 +46,11 @@ DAX was used to create calculated measures and KPIs required for the dashboard.
 ## 📷 Dashboard Preview
 
 Add your dashboard screenshots here.
-![Overview](0001.png)
-![Product & Profitability](0002.png)
-![ Inventory & Reorder](0003.png)
+![Overview](001.png)
+![Product & Profitability](002.png)
+![ Inventory & Reorder](003.png)
 ![Customer & Channel
- Analysis](0004.png)
+ Analysis](004.png)
 ## 💡 Key Learning
 
 This project helped strengthen practical skills in Power BI dashboard development, Power Query, DAX, data cleaning, data analysis, and business-focused data visualization.
